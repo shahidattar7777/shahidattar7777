@@ -1,4 +1,4 @@
-## Hi there 👋
+#Currently researching attention patterns in table layouts (vertical vs. horizontal). Also building scalable data solutions with AWS, Python, and modern analytics tools.
 
 <!--
 **shahidattar7777/shahidattar7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
