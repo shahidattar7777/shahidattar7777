@@ -1,4 +1,4 @@
-# Currently researching attention patterns in table layouts (vertical vs. horizontal) 👀📈. Building scalable data solutions with AWS ☁️, Python 🐍, and modern analytics tools 📉.
+# Filed a Provisional Patent recently for an attention logging system. Having a Look at transformers for Genetic Data nowadays 👀📈. Building scalable data solutions with AWS ☁️, Python 🐍, and modern analytics tools 📉.
 
 <!--
 **shahidattar7777/shahidattar7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
