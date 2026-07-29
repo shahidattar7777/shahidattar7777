@@ -1,9 +1,9 @@
 
-# Teaching machines⚙️🛠️ to read the things they were never meant to read regulatory PDFs 📄, protein sequences🦠🧪🧬, attention maps🌍
+# Teaching machines⚙️🛠️ to read the things they were never meant to 📄, 🦠🧪🧬, 🌍
 
 🤖 **Right now building agents that do real work**
 
-building AI agents and RAG systems with LangGraph, MCP, and whatever's newest that week
+Building AI agents and RAG systems with LangGraph, MCP, and whatever's newest that week
 
 🧬 **The obsession has always been cells and DNA** 
 
