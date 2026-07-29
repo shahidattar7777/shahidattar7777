@@ -1,11 +1,16 @@
 
 # Teaching machines⚙️🛠️ to read the things they were never meant to read regulatory PDFs 📄, protein sequences🦠🧪🧬, attention maps🌍
 
-🤖 **Right now building agents that do real work** 
+🤖 **Right now building agents that do real work**
+
 building AI agents and RAG systems with LangGraph, MCP, and whatever's newest that week
+
 🧬 **The obsession has always been cells and DNA** 
+
 Cell tracking and poking at what protein and genomic sequence transformers actually pay attention to
+
 📄 **On the record - filed a provisional patent**
+
 filed a provisional patent for an attention-logging system that shows you what a transformer looked at, and lets you replay it
 
 <!--
