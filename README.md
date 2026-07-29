@@ -1,10 +1,11 @@
-# Hi, I'm Shahid 👋
-Nowadays
-- 🤖 Building **AI agents & RAG systems** with LangGraph, MCP, and modern LLM tooling (Sagemaker, Google AI Studio)
-- 📈 Filed a **provisional patent** for an attention-logging system for transformers
-- 🧬 Exploring **transformers for genomic & biological sequence data**
-- 🚀 Deploying **production apps & data pipelines** — Docker, ECS, CI/CD (GitHub Actions)
-- ☁️ **Data Infra on AWS** with Python — S3, Lambda, Glue, RDS, Athena
+
+*Teaching machines to read the things they were never meant to read regulatory PDFs, protein sequences, attention maps.*
+
+🤖 **Right now** building AI agents and RAG systems with LangGraph, MCP, and whatever's newest that week
+
+🧬 **The obsession**: Cell tracking and poking at what protein and genomic sequence transformers actually pay attention to
+
+📄 **On the record**:filed a provisional patent for an attention-logging system that shows you what a transformer looked at, and lets you replay it
 
 <!--
 **shahidattar7777/shahidattar7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
