@@ -1,4 +1,10 @@
-# Filed a Provisional Patent recently for an attention logging system. Having a Look at transformers for Genetic Data nowadays 👀📈. Building scalable data solutions with AWS ☁️, Python 🐍, and modern analytics tools 📉.
+# Hi, I'm Shahid 👋
+Nowadays
+- 🤖 Building **AI agents & RAG systems** with LangGraph, MCP, and modern LLM tooling (Sagemaker, Google AI Studio)
+- 📈 Filed a **provisional patent** for an attention-logging system for transformers
+- 🧬 Exploring **transformers for genomic & biological sequence data**
+- 🚀 Deploying **production apps & data pipelines** — Docker, ECS, CI/CD (GitHub Actions)
+- ☁️ **Data Infra on AWS** with Python — S3, Lambda, Glue, RDS, Athena
 
 <!--
 **shahidattar7777/shahidattar7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
